@@ -8,8 +8,8 @@ int main(void)
     int i;
     int j;
     int k;
-    patterntype=get_int("Enter type of pattern (1 or 2)  ");
-    rows=get_int("Number of rows  ");
+    patterntype=get_int("");
+    rows=get_int("");
     if(patterntype==1)
     {
         for(i=rows;i>=1;i--)
