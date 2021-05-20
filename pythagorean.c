@@ -28,7 +28,7 @@ int main(void)
         {
             p=c;
             q=a;
-            r=c;
+            r=b;
         }
     }
     else
