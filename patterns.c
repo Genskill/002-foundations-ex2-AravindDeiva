@@ -8,6 +8,7 @@ int main(void)
     int i;
     int j;
     int k;
+    printf("\n");
     patterntype=get_int("");
     rows=get_int("");
     if(patterntype==1)
